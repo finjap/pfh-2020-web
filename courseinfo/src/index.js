@@ -1,77 +1,44 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-
-const Header = (props) => {
-    console.log(props)
-    return (
-        <div>
-            <h1> {props.course} </h1>
-        </div>
-    )
+import Note from './component/Note'
+import './index.css';
+ 
+const notes = [
+  {
+    id: 1,
+    content: 'HTML is easy',
+    date: '2019-05-30T17:30:31.098Z',
+    important: true
+  },
+  {
+    id: 2,
+    content: 'Browser can execute only Javascript',
+    date: '2019-05-30T18:39:34.091Z',
+    important: false
+  },
+  {
+    id: 3,
+    content: 'GET and POST are the most important methods of HTTP protocol',
+    date: '2019-05-30T19:20:14.298Z',
+    important: true
+  }
+]
+ 
+const App = (props) => {
+  const { notes } = props
+  // ist das gleiche wie: const notes = props.notes
+ 
+  return (
+    <div>
+      <h1>Notes</h1>
+      <ul>
+      {notes.map(note => <Note note={note}/>)}
+      </ul>
+    </div>
+  )
 }
-const Content = (props) => {
-    console.log(props)
-    return(
-        <div>
-                <Part part={props.parts[0]}></Part>
-                <Part part={props.parts[1]}></Part>
-                <Part part={props.parts[2]}></Part>
-        </div>
-    )
-}
-const Part = (props) => {
-    return(
-        <div>
-            <p>
-                {props.part.name} {props.part.exercises}
-            </p>
-        </div>
-    )
-}
-const Total = (props) => {
-    console.log(props)
-    return(
-        <div>
-            <p>
-            Number of exercises {props.parts[0].exercises + props.parts[1].exercises + props.parts[2].exercises}
-            </p>
-        </div>
-    )
-}
-
-const App = () => {
-    const course = {
-        name: 'Half Stack application development',
-        parts: [
-          {
-            name: 'Fundamentals of React',
-            exercises: 10
-          },
-          {
-            name: 'Using props to pass data',
-            exercises: 7
-          },
-          {
-            name: 'State of a component',
-            exercises: 14
-          }
-        ]
-      }
-
-
-    return (
-        <div>
-            <Header
-                course={course.name}>
-            </Header>
-            <Content
-                parts={course.parts}>
-            </Content>
-            <Total
-                parts={course.parts}>
-            </Total>
-        </div>
-    )
-}
-
-ReactDOM.render(<App/>, document.getElementById('root'))
+ 
+ReactDOM.render(
+  <App notes={notes} />,
+  document.getElementById('root')
+)  
