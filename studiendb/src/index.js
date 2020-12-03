@@ -3,8 +3,8 @@ import React, { useState as useTitel, useEffect } from 'react'
 import ReactDOM from 'react-dom';
 import Studie from './component/Studie';
 import './index.css';
-import './component/Header';
-import Header from './component/Header';
+//import './component/Header';
+//import Header from './component/Header';
 
 import axios from 'axios'
 
