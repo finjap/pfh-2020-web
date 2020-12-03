@@ -1,0 +1,61 @@
+{
+  "studien": [
+    {
+      "titel": "Studie 1",
+      "stunden": "10",
+      "zeitraum": "01.11.2020-14.11.2020",
+      "studienleiter": "Arto Hellas",
+      "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "id": 1
+    },
+    {
+      "titel": "Studie 2",
+      "stunden": "10",
+      "zeitraum": "01.11.2020-14.11.2020",
+      "studienleiter": "Max Mustermann",
+      "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "id": 2
+    },
+    {
+      "titel": "Studie 3",
+      "stunden": "10",
+      "zeitraum": "01.11.2020-14.11.2020",
+      "studienleiter": "Mary Poppendiek",
+      "details": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "id": 3
+    },
+    {
+      "studienleiter": "Finja Plaumann",
+      "studie": "Test",
+      "zeitraum": "22.11.2020-30.11.2020",
+      "id": 4
+    },
+    {
+      "studienleiter": "Finja Plaumann",
+      "titel": "Studie Test",
+      "zeitraum": "11.12.2020-20.12.2020",
+      "stunden": "3",
+      "details": "lorem ipsum sit dolor",
+      "kriterien": "linkshänder",
+      "id": 5
+    },
+    {
+      "studienleiter": "Mira Mustermann",
+      "titel": "Test ",
+      "zeitraum": "22.11.2020-23.11.2020",
+      "stunden": "10",
+      "details": "abcnaefnaöoi",
+      "kriterien": "grüne Augen",
+      "id": 6
+    },
+    {
+      "studienleiter": "Max Mustermann",
+      "titel": "Verhalten von Vögeln",
+      "zeitraum": "11.12.2020-22.12.2020",
+      "stunden": "10",
+      "details": "Lorem ipsum bla bla bla ",
+      "kriterien": "Vogelbesitzer",
+      "id": 7
+    }
+  ]
+}
