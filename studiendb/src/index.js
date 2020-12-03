@@ -1,7 +1,11 @@
-// import React, { useState } from 'react'
+ //import React, { useState } from 'react'
 import React, { useState as useTitel, useEffect } from 'react'
 import ReactDOM from 'react-dom';
-import Studie from './component/Studie'
+import Studie from './component/Studie';
+import './index.css';
+import './component/Header';
+import Header from './component/Header';
+
 import axios from 'axios'
 
 const App = () => {
@@ -42,22 +46,32 @@ return (
   <div>
     <h2>Neue Studie erstellen</h2>
     <form onSubmit={addStudie}>
-      <div>
-        Titel: < input value={newTitel} onInput={inputEvent => setNewTitel(inputEvent.target.value)} />
-        Studienleiter: <input value={newStudienleiter} onInput={inputEvent => setNewStudienleiter(inputEvent.target.value)} />
-        Zeitraum: <input value={newZeitraum} onInput={inputEvent => setNewZeitraum(inputEvent.target.value)} />
-        Stunden: <input value={newStunden} onInput={inputEvent => setNewStunden(inputEvent.target.value)} />
-        Kriterien: <input value={newKriterien} onInput={inputEvent => setNewKriterien(inputEvent.target.value)} />
-        Details: <input value={newDetails} onInput={inputEvent => setNewDetails(inputEvent.target.value)} />
+      <div >
+      <div class="form_left">
+        <p>Titel: < input class="input_titel" value={newTitel} onInput={inputEvent => setNewTitel(inputEvent.target.value)} /></p> 
+        <p>Studienleiter: <input class="input_studienleiter" value={newStudienleiter} onInput={inputEvent => setNewStudienleiter(inputEvent.target.value)} /></p>
+        <p>Zeitraum: <input class="input_zeitraum" value={newZeitraum} onInput={inputEvent => setNewZeitraum(inputEvent.target.value)} /></p>
+        <p>Stunden: <input class="input_stunden" value={newStunden} onInput={inputEvent => setNewStunden(inputEvent.target.value)} /></p>
+        <p>Kriterien: <input class="input_kriterien" value={newKriterien} onInput={inputEvent => setNewKriterien(inputEvent.target.value)} /></p>
+        <div>
+        <button class="btn_submit" type="submit">Speichern</button>
       </div>
-      <div>
-        <button type="submit">Speichern</button>
+        </div>
+        <div class="form_right">
+        Details: <input class="input_details" value={newDetails} onInput={inputEvent => setNewDetails(inputEvent.target.value)} />
+      </div>
       </div>
     </form>
-    <h2>Ausgeschreibene Studien</h2>
     <div>
+    <div>
+    <h2>Ausgeschreibene Studien</h2>
+    </div>
+    <a href="https://www.pfh.de/">
+    <div class="link">
     {studien.map(listItem =>  <Studie  titel={listItem.titel} studienleiter={listItem.studienleiter} stunden={listItem.stunden}></Studie>)}
     </div>
+    </a>
+  </div>
   </div>
 )
 }
