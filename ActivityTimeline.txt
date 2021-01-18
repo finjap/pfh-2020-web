@@ -9,4 +9,7 @@ Datum       Von     Bis     Aktivität
 20.12.2020  14:50   15:20
 21.12.2020  08:00   08:10   Erneutes pushen des Projektes und Fehlerbehebung
 04.01.2021  15:30   18:30   Recherchieren und Lesen um Router einzufügen und das Menü funktionsfähig zu machen, Erstellen der Routstruktur
+16.01.2021	11:00	  12:15 	Austausch mit Lina Steimel, Fei Kwintmeyer, Julia Preuß, Ann-Kathrin Probst und Philipp Schäfer
 16.01.2021  18:00   18:30   Korrektur der Routstruktur und der Funktionsweise des Headers
+17.01.2021  17:00   17:50   Verbesserung eines Anzeigefehlers mit Fei Kwintmeyer
+18.01.2021  14:20   16:15   Zusammen mit Fei Kwintmeyer die Studienliste in MeineStunden.js hinzugfügt, dafür nebenher recherchiert. Der neue Stand ist noch nicht gepusht, da er noch fehlerhaft ist.
