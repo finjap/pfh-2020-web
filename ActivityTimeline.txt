@@ -13,3 +13,7 @@ Datum       Von     Bis     Aktivität
 16.01.2021  18:00   18:30   Korrektur der Routstruktur und der Funktionsweise des Headers
 17.01.2021  17:00   17:50   Verbesserung eines Anzeigefehlers mit Fei Kwintmeyer
 18.01.2021  14:20   16:15   Zusammen mit Fei Kwintmeyer die Studienliste in MeineStunden.js hinzugfügt, dafür nebenher recherchiert. Der neue Stand ist noch nicht gepusht, da er noch fehlerhaft ist.
+24.01.2021  14:00   16:12   Zusammen mit den Restlichen Teammitgliedern das Worddokument besprochen
+25.01.2021  17:30   18:40   Zusammen mit den Restlichen Teammitgliedern und Herrn Horstmann das Worddokument erneut besprochen
+26.01.2021  13:30   15:30   Zusammen mit Fei Kwintmeyer und Julia Preuß am Login gearbeitet
+26.01.2021  22:30   23:00   Fehlende Seiten erstellt und grob den Inhalt eingefuegt. Das weitere Vorgehen geplant   
