@@ -1,5 +1,5 @@
 Datum       Von     Bis     Aktivität
-27.10.2020  15:00   20:00   Wireframes erstellt zusammen mit J.Preuß
+27.10.2020  12:00   20:00   Wireframes erstellt zusammen mit J.Preuß (Zeitaufwand wurde geschätzt)
 23.11.2020  17:30   19:00   Erste Version der Studiendatenbank erstellt zusammen mit F.Kwintmeyer, D.Gümüs, J.Preuß
 07.12.2020  12:45   13:00   Statusbericht
 08.12.2020  20:15   21:54   FullStack Kurs zu Bootstrap durchgelesen und erste Anwendungsversuche im Code
