@@ -21,4 +21,14 @@ Datum       Von     Bis     Aktivität
 25.12.2021  12:45   13:00   Statusbericht
 25.01.2021  17:30   18:40   Zusammen mit den Restlichen Teammitgliedern und Herrn Horstmann das Worddokument erneut besprochen
 26.01.2021  13:30   15:30   Zusammen mit F.Kwintmeyer und J.Preuß am Login gearbeitet
-26.01.2021  22:30   23:00   Fehlende Seiten erstellt und grob den Inhalt eingefuegt. Das weitere Vorgehen geplant   
+26.01.2021  22:30   23:00   Fehlende Seiten erstellt und grob den Inhalt eingefuegt. Das weitere Vorgehen geplant  
+04.02.2021  10:10   12:10   Ausarbeitung der Praesentation mit F.Kwintmeyer, D.Gümüs, J.Preuß
+04.02.2021  12:45   13:15   Statusbericht
+04.02.2021  14:00   15:30   CSS Anpassungen
+04.02.2021  16:00   17:20   Vorbereitung auf die Präsentation mit F.Kwintmeyer und D.Gümüs
+04.02.2021  18:00   18:40   Vorgespräch für die Präsentation mit allen Teammitgliedern und H.Schüle
+04.02.2021  18:40   20:35   Aufbereitung der Präsentation mit allen Teammitgliedern, die letzte halbe Stunde mit F.Kwintmeyer
+04.02.2021  20:35   22:15   CSS Anpassungen
+05.02.2021  10:00   10:48   Zwischenpräsentation der Applikation
+05.02.2021  10:50   11:44   Nachbesprechung der Präsentation mit allen Teammitgliedern
+
