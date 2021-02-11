@@ -31,4 +31,4 @@ Datum       Von     Bis     Aktivität
 04.02.2021  20:35   22:15   CSS Anpassungen
 05.02.2021  10:00   10:48   Zwischenpräsentation der Applikation
 05.02.2021  10:50   11:44   Nachbesprechung der Präsentation mit allen Teammitgliedern
-
+10.02.2021  17:00   18:30   Mit L.Steimel und D.Gümüs gemiensame Arbeit, um die Einträge des Forms in die mongo.db zu schreiben
