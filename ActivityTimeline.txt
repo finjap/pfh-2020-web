@@ -33,3 +33,5 @@ Datum       Von     Bis     Aktivität
 05.02.2021  10:50   11:44   Nachbesprechung der Präsentation mit allen Teammitgliedern
 10.02.2021  17:00   18:30   Mit L.Steimel und D.Gümüs gemiensame Arbeit, um die Einträge des Forms in die mongo.db zu schreiben
 13.02.2021  14:00   15:00   Gemeinsame Arbeit am Frontend mit F.Kwintmeyer 
+15.02.2021  10:00   11:00   Recherche zu CSS
+17.02.2021  19:00   22:00   Recherche zu CSS und Anwendung CSS
