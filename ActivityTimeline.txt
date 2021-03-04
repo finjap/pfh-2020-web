@@ -35,3 +35,7 @@ Datum       Von     Bis     Aktivität
 13.02.2021  14:00   15:00   Gemeinsame Arbeit am Frontend mit F.Kwintmeyer 
 15.02.2021  10:00   11:00   Recherche zu CSS
 17.02.2021  19:00   22:00   Recherche zu CSS und Anwendung CSS
+23.02.2021  19:00   21:00   Gemeinsame Arbeit am Frontend mit F.Kwintmeyer
+01.03.2021  19:30   21:25   Weiterarbeit am Formular, Fortsetzung CSS 
+02.03.2021  17:30   18:30   Besprechung des aktuellen Stands des Projektes mit allen Teammitgliedern
+04.03.2021  14:15   14:30   Statusbericht
