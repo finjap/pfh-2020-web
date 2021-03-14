@@ -39,3 +39,6 @@ Datum       Von     Bis     Aktivität
 01.03.2021  19:30   21:25   Weiterarbeit am Formular, Fortsetzung CSS 
 02.03.2021  17:30   18:30   Besprechung des aktuellen Stands des Projektes mit allen Teammitgliedern
 04.03.2021  14:15   14:30   Statusbericht
+11.03.2021  14:00   14:40   Einleitung Git Issues und Statusbericht
+14.02.2021  14:30   17:10   CSS
+14.02.2021  20:45   22:00   CSS, Recherche Ampelsytem, Erster Versuch Ampelsystem
