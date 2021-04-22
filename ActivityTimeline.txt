@@ -42,3 +42,4 @@ Datum       Von     Bis     Aktivität
 11.03.2021  14:00   14:40   Einleitung Git Issues und Statusbericht
 14.02.2021  14:30   17:10   CSS
 14.02.2021  20:45   22:00   CSS, Recherche Ampelsytem, Erster Versuch Ampelsystem
+22.04.2021  13:05   14:25   Mit F.Kwintmeyer Code kommentiert und bereinigt
