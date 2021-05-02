@@ -16,7 +16,7 @@ Datum       Von     Bis     Aktivität
 16.01.2021  18:00   18:30   Korrektur der Routstruktur und der Funktionsweise des Headers
 17.01.2021  17:00   17:50   Verbesserung eines Anzeigefehlers mit F.Kwintmeyer
 18.12.2021  12:45   13:00   Statusbericht
-18.01.2021  14:20   16:15   Zusammen mit F.Kwintmeyer die Studienliste in MeineStunden.js hinzugfügt, dafür nebenher recherchiert. Der neue Stand ist noch nicht gepusht, da er noch fehlerhaft ist.
+18.01.2021  14:20   16:15   Zusammen mit F.Kwintmeyer die Studienliste in MeineStunden.js hinzugfügt, dafür nebenher recherchiert.
 24.01.2021  14:00   16:12   Zusammen mit den Restlichen Teammitgliedern das Worddokument besprochen
 25.12.2021  12:45   13:00   Statusbericht
 25.01.2021  17:30   18:40   Zusammen mit den Restlichen Teammitgliedern und Herrn Horstmann das Worddokument erneut besprochen
@@ -40,6 +40,9 @@ Datum       Von     Bis     Aktivität
 02.03.2021  17:30   18:30   Besprechung des aktuellen Stands des Projektes mit allen Teammitgliedern
 04.03.2021  14:15   14:30   Statusbericht
 11.03.2021  14:00   14:40   Einleitung Git Issues und Statusbericht
-14.02.2021  14:30   17:10   CSS
-14.02.2021  20:45   22:00   CSS, Recherche Ampelsytem, Erster Versuch Ampelsystem
+14.03.2021  14:30   17:10   CSS
+14.03.2021  20:45   22:00   CSS, Recherche Ampelsytem, Erster Versuch Ampelsystem
 22.04.2021  13:05   14:25   Mit F.Kwintmeyer Code kommentiert und bereinigt
+30.04.2021  09:00   13:30   
+30.04.2021  15:00   17:00   Gemeinsame Arbeit am Frontend mit F.Kwintmeyer 
+02.05.2021  14:30   16:00   Gemeinsame Arbeit am Projekt mit F.Kwintmeyer und J.Preuß
